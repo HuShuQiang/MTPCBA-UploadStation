@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="美团PCBA过站上传工具.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Model" Type="System.String" Scope="User">
+      <Value Profile="(Default)">T8FJ</Value>
+    </Setting>
+    <Setting Name="Station" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ITP_test</Value>
+    </Setting>
+    <Setting Name="Fixid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8FZDX0001</Value>
+    </Setting>
+    <Setting Name="Field" Type="System.String" Scope="User">
+      <Value Profile="(Default)">main_board</Value>
+    </Setting>
+    <Setting Name="Com" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
